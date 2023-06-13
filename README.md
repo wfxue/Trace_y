@@ -5,7 +5,7 @@ and an app for AFM image analysis
 
 
 ## Contact
-Wei-Feng Xue [mailto:w.f.xue@kent.ac.uk]
+Wei-Feng Xue <mailto:w.f.xue@kent.ac.uk>
 
 
 ## Relevant publications:
@@ -20,9 +20,9 @@ Lutter, L., Serpell, C. J., Tuite, M. F., Serpell, L. C. & Xue, W.-F. Three-dime
 
 ## Usage in matlab
 
-Trace_y('-m');
+>> Trace_y('-m');
 Subsequently for the simple 'functions' GUI:
-Trace_y; Using the simple 'Functions' GUI
+>>Trace_y;
 
 ## Executable versions
 
