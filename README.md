@@ -20,9 +20,12 @@ Lutter, L., Serpell, C. J., Tuite, M. F., Serpell, L. C. & Xue, W.-F. Three-dime
 
 ## Usage in matlab
 
->> Trace_y('-m');
+    >>Trace_y('-m');
+
 Subsequently for the simple 'functions' GUI:
->>Trace_y;
+
+    >>Trace_y;
+
 
 ## Executable versions
 
