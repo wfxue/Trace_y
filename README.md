@@ -67,7 +67,7 @@ Center.
 
 ## License
 
-MIT License
+MIT License (Wei-Feng Xue)
 
 Copyright (c) 2023 wfxue
 
