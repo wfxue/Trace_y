@@ -12,7 +12,7 @@ Wei-Feng Xue <mailto:w.f.xue@kent.ac.uk>
 
 Lutter, L., Al-Hilaly, Y. K., Serpell, C. J., Tuite, M. F., Wischik, C. M., Serpell, L. C. & Xue, W.-F. Structural Identification of Individual Helical Amyloid Filaments by Integration of Cryo-Electron Microscopy-Derived Maps in Comparative Morphometric Atomic Force Microscopy Image Analysis. J Mol Biol 434, 167466, (2022). https://doi.org/10.1016/j.jmb.2022.167466
 
-Aubrey, L. D., Blakeman, B. J. F., Lutter, L., Serpell, C. J., Tuite, M. F., Serpell, L. C. & Xue, W.-F. Quantification of amyloid fibril polymorphism by nano-morphometry reveals the individuality of filament assembly. Commun Chem 3, (2020). https://doi.org/ARTN10.1038/s42004-020-00372-3
+Aubrey, L. D., Blakeman, B. J. F., Lutter, L., Serpell, C. J., Tuite, M. F., Serpell, L. C. & Xue, W.-F. Quantification of amyloid fibril polymorphism by nano-morphometry reveals the individuality of filament assembly. Commun Chem 3, (2020). https://doi.org/10.1038/s42004-020-00372-3
 
 Lutter, L., Serpell, C. J., Tuite, M. F., Serpell, L. C. & Xue, W.-F. Three-dimensional reconstruction of individual helical nano-filament structures from atomic force microscopy topographs. Biomol Concepts 11, 102-115, (2020). https://doi.org/10.1515/bmc-2020-0009
 
