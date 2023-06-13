@@ -67,9 +67,9 @@ Center.
 
 ## License
 
-MIT License (Wei-Feng Xue)
+MIT License
 
-Copyright (c) 2023 wfxue
+Copyright (c) 2023 wfxue (Wei-Feng Xue)
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
