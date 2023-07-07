@@ -3,6 +3,9 @@
 Tracing and individual filament 3D structural analysis
 and an app for AFM image analysis
 
+Reference (pre-print):
+Xue, W.-F., Trace_y: Software algorithms for structural analysis of individual helical filaments by three-dimensional contact point reconstruction atomic force microscopy. bioRxiv (2023). https://doi.org/10.1101/2023.07.05.547812
+
 
 ## Contact
 Wei-Feng Xue <mailto:w.f.xue@kent.ac.uk>
@@ -27,6 +30,11 @@ Lutter, L., Serpell, C. J., Tuite, M. F., Serpell, L. C. & Xue, W.-F. Three-dime
 Subsequently for the simple 'functions' GUI:
 
     >>Trace_y;
+
+
+## Example
+
+Example_Height_Image.csv is an example that can be loaded using the Import CSV functionality with the default image size parameters.
 
 
 ## Executable versions
