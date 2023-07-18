@@ -4,7 +4,7 @@ Tracing and individual filament 3D structural analysis
 and an app for AFM image analysis
 
 Reference (pre-print):
-Xue, W.-F., Trace_y: Software algorithms for structural analysis of individual helical filaments by three-dimensional contact point reconstruction atomic force microscopy. bioRxiv (2023). https://doi.org/10.1101/2023.07.05.547812
+Xue, W.-F., Trace_y: Software algorithms for structural analysis of individual helical filaments by three-dimensional contact point reconstruction atomic force microscopy. bioRxiv, 2023.07.05.547812 (2023). https://doi.org/10.1101/2023.07.05.547812
 
 
 ## Contact
@@ -13,7 +13,7 @@ Wei-Feng Xue <mailto:w.f.xue@kent.ac.uk>
 
 ## Relevant publications:
 
-Forthcoming papers in preparation: Aubrey et al. (2023) and Xue (2023)
+Aubrey, L. D., Lutter, L., Fennell, K., Purton, T. J., Ward, N., Serpell, L. C., Xue, W.-F. Structural reconstruction of individual filaments in Abeta42 fibril populations assembled in vitro reveal rare species that resemble ex vivo amyloid polymorphs from human brains. bioRxiv, 2023.07.14.549001 (2023). https://doi.org/10.1101/2023.07.14.549001
 
 Lutter, L., Al-Hilaly, Y. K., Serpell, C. J., Tuite, M. F., Wischik, C. M., Serpell, L. C. & Xue, W.-F. Structural Identification of Individual Helical Amyloid Filaments by Integration of Cryo-Electron Microscopy-Derived Maps in Comparative Morphometric Atomic Force Microscopy Image Analysis. J Mol Biol 434, 167466, (2022). https://doi.org/10.1016/j.jmb.2022.167466
 
