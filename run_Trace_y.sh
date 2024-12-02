@@ -14,9 +14,9 @@ else
   echo Setting up environment variables
   MCRROOT="$1"
   echo ---
-  DYLD_LIBRARY_PATH=.:${MCRROOT}/runtime/maci64 ;
-  DYLD_LIBRARY_PATH=${DYLD_LIBRARY_PATH}:${MCRROOT}/bin/maci64 ;
-  DYLD_LIBRARY_PATH=${DYLD_LIBRARY_PATH}:${MCRROOT}/sys/os/maci64;
+  DYLD_LIBRARY_PATH=.:${MCRROOT}/runtime/maca64 ;
+  DYLD_LIBRARY_PATH=${DYLD_LIBRARY_PATH}:${MCRROOT}/bin/maca64 ;
+  DYLD_LIBRARY_PATH=${DYLD_LIBRARY_PATH}:${MCRROOT}/sys/os/maca64;
   export DYLD_LIBRARY_PATH;
   echo DYLD_LIBRARY_PATH is ${DYLD_LIBRARY_PATH};
   shift 1
